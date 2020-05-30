@@ -1,0 +1,11 @@
+C:\Users\Carlo\Documents\Coding_Dojo\c\csharp\datastruct\DLL\obj\Debug\netcoreapp2.2\DLL.csprojAssemblyReference.cache
+C:\Users\Carlo\Documents\Coding_Dojo\c\csharp\datastruct\DLL\obj\Debug\netcoreapp2.2\DLL.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\Documents\Coding_Dojo\c\csharp\datastruct\DLL\obj\Debug\netcoreapp2.2\DLL.AssemblyInfoInputs.cache
+C:\Users\Carlo\Documents\Coding_Dojo\c\csharp\datastruct\DLL\obj\Debug\netcoreapp2.2\DLL.AssemblyInfo.cs
+C:\Users\Carlo\Documents\Coding_Dojo\c\csharp\datastruct\DLL\bin\Debug\netcoreapp2.2\DLL.deps.json
+C:\Users\Carlo\Documents\Coding_Dojo\c\csharp\datastruct\DLL\bin\Debug\netcoreapp2.2\DLL.runtimeconfig.json
+C:\Users\Carlo\Documents\Coding_Dojo\c\csharp\datastruct\DLL\bin\Debug\netcoreapp2.2\DLL.runtimeconfig.dev.json
+C:\Users\Carlo\Documents\Coding_Dojo\c\csharp\datastruct\DLL\bin\Debug\netcoreapp2.2\DLL.dll
+C:\Users\Carlo\Documents\Coding_Dojo\c\csharp\datastruct\DLL\bin\Debug\netcoreapp2.2\DLL.pdb
+C:\Users\Carlo\Documents\Coding_Dojo\c\csharp\datastruct\DLL\obj\Debug\netcoreapp2.2\DLL.dll
+C:\Users\Carlo\Documents\Coding_Dojo\c\csharp\datastruct\DLL\obj\Debug\netcoreapp2.2\DLL.pdb
